@@ -26,3 +26,4 @@ function performOperation(secondInteger, secondDecimal, secondString) {
 
     const newString = firstString + secondString
     console.log(newString)
+}
